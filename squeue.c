@@ -1,5 +1,7 @@
 #include "squeue.h"
 #include <stdlib.h>
+#include <stdio.h>
+#define N 10
 
 
 	SQueue* SQueue_create (){
